@@ -1,5 +1,5 @@
 {
-  "name": "Tic-Tac-Toe_PROJECT",
+  "name": "tic-tac-toe_project",
   "version": "1.0.0",
   "dependencies": {
     "@aws-sdk/client-dynamodb": "^3.145.0",
@@ -10,5 +10,12 @@
   "devDependencies": {
     "eslint": "^8.21.0",
     "prettier": "2.7.1"
-  }
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
